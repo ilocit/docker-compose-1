@@ -1,6 +1,6 @@
 # Setup HPI-Schul-Cloud
 
-The scripts (e.g. startup_develop.sh) set up an environment for developing with all necassery docker container. The cripts combines the neccassery compose files and can be triggerd with normal docker-compose commands.
+The scripts (e.g. startup_develop.sh) set up an environment for developing with all necassery docker container. The scripts combine the neccassery compose files and can be triggerd with normal docker-compose commands.
 
 ## Examples
 
